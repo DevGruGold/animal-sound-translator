@@ -2,21 +2,21 @@
 # animal-sound-translator
 
 ## Project Description
-This project is designed to [describe the main functionality and purpose of the project].
+A unique project that translates animal sounds into human-readable text.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Supports multiple animal sounds
+- Real-time translation
+- User-friendly interface
 
 ## Technology Stack
-List of technologies used in the project.
+Python, Flask, TensorFlow
 
 ## Installation
-Instructions on how to install the project.
+Clone the repository, set up a virtual environment, and run `pip install -r requirements.txt`.
 
 ## Usage
-Examples of how to use the project.
+Run the Flask app and upload animal sound files for translation.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
