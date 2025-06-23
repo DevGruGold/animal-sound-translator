@@ -1,22 +1,35 @@
-# Code of Conduct
+# Code of Conduct - XMRT
 
 ## Our Pledge
 
-We at XMRT Solutions are committed to making participation in our projects a harassment-free experience for everyone.
+We at XMRT are committed to fostering an open, privacy-respecting, and liberty-focused community. We believe in the fundamental right to financial privacy and freedom.
 
-## Our Standards
+## Our Core Values
 
-**Positive behaviors include:**
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* **Privacy First**: Respecting user privacy and anonymity
+* **Financial Liberty**: Supporting freedom of transaction and ownership
+* **Open Source**: Transparent, auditable code for trust
+* **Decentralization**: No single point of failure or control
+* **Innovation**: Pushing boundaries in blockchain technology
+
+## Expected Behavior
+
+* Respect privacy and anonymity choices
+* Contribute to open-source development
+* Share knowledge about financial sovereignty
+* Support decentralization efforts
+* Help others understand blockchain technology
+
+## Unacceptable Behavior
+
+* Doxxing or revealing private information
+* Promoting centralized control systems
+* Spreading FUD without constructive criticism
+* Violating user privacy
+* Malicious attacks on the network
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at xmrtsolutions@gmail.com.
+Issues may be reported to: xmrtsolutions@gmail.com
 
-## Attribution
-
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
+Remember: Code is Law, Privacy is Right, Liberty is Essential.
