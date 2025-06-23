@@ -26,3 +26,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, please contact DevGruGold AKA Joseph Andrew Lee.
+
+
+<!-- XMRT Solutions Footer -->
+---
+
+## 💻 About XMRT Solutions
+
+This project is maintained by **XMRT Solutions**, delivering:
+- 📡 Advanced IoT and sensor networks
+- 🔧 Custom web development solutions
+- 📊 Data analytics and visualization
+- 🚀 API development and integration
+- 🛡️ Secure, scalable technology infrastructure
+
+**Connect with us:**
+- 🌐 Website: [https://xmrt.io](https://xmrt.io)
+- 📧 Email: xmrtsolutions@gmail.com
+- 💡 Building the future with technology
+
+*Innovation Delivered* 🚀
