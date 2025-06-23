@@ -1,3 +1,5 @@
-# Support XMRT Solutions Projects
+# Support XMRT - Financial Privacy & Liberty
 github: DevGruGold
-custom: ["https://xmrt.io/support"]
+bitcoin: "bc1qxmrt..."  # Add your BTC address
+ethereum: "0xXMRT..."   # Add your ETH address
+custom: ["https://xmrt.io/donate", "https://xmrt.io/support-privacy"]
